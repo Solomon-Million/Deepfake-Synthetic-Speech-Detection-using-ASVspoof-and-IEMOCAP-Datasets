@@ -1,5 +1,5 @@
 # Deepfake-Synthetic-Speech-Detection-using-ASVspoof-and-IEMOCAP-Datasets
-Abstract—Abstract—The generation, proliferation, and manipulation
+Abstract—The generation, proliferation, and manipulation
 of synthetic speech data have raised serious concerns
 regarding its potential misuse for malicious purposes, such as
 identity theft and misinformation. While many existing synthetic
